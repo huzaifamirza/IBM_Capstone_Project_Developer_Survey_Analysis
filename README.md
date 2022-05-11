@@ -30,7 +30,7 @@ When the data is ready you will then want to apply statistical techniques to ana
 <li>Distribution</li> 
 <li>Outliers</li> 
 <li>Correlation</li>
->h4>Module 4: Data Visualization</h4> 
+<h4>Module 4: Data Visualization</h4> 
 <li>Visualizing Distribution of Data</li> 
 <li>Relationship</li> 
 <li>Composition</li> 
